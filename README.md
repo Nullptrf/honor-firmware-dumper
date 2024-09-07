@@ -1,5 +1,5 @@
 # HONOR FIRMWARE DUMPER
-A tool for dumping Honor device firmware from connected computers without the device owners knowing.
+A tool for dumping Honor devices firmware.
 
 ### How to Install the Firmware Zip File from Dload:
 

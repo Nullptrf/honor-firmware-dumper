@@ -12,6 +12,7 @@ A tool for dumping Honor devices firmware.
 * All your data, including pictures, will be erased!
 * ⚠️💀 Do not interrupt the process.
 * ⚠️💀 Do not unplug the USB stick during the installation! Otherwise, the phone may be permanently damaged.
+* Downgrading to previous version might not be possible.
 
 ### Installation Steps (Follow Carefully):
 1. Download the firmware for your device from the link provided on the Telegram channel (Telegram: [@honorfirmwares](https://t.me/honorfirmwares)).

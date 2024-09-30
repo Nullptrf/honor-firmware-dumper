@@ -4,7 +4,7 @@ A tool for dumping Honor devices firmware.
 ### How to Install the Firmware Zip File from Dload:
 
 ### Requirements:
-* A USB stick with 10-12GB of free space.
+* A USB stick with 10-12GB of free space (with exFAT format).
 * An Honor phone with at least 60% battery or fully charged.
 
 ### Warnings:

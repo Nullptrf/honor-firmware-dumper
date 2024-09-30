@@ -21,7 +21,7 @@ A tool for dumping Honor devices firmware.
    - Ensure the *dload* folder is not inside any other folder (it should be in the root directory of the USB stick).
 4. Once the copying is complete, use `umount` to safely eject the USB stick and ensure the files copied successfully.
 5. Unplug the USB stick from your PC and connect it to your target Honor phone.
-6. On your Honor phone, open the phone app and enter this code: `*#*#2846579#*#*`. You will access the `ProjectMenu`. Select `Software Upgrade -> Memory Card Upgrade`, ensuring the USB stick is plugged into your phone. (If you see an MIT error, don’t worry; it’s not an issue.)
+6. On your Honor phone, open the phone app and enter this code: `*#*#2846579#*#*`. You will access the `ProjectMenu`. Select `Software Upgrade -> Memory Card Upgrade`, ensuring the USB stick is plugged into your phone. (If you see an MT error, don’t worry; it’s not an issue.)
 7. The phone will reboot into recovery mode, and the installation will begin.
 
 ### That's It!
